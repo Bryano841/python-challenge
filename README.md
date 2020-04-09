@@ -1,8 +1,11 @@
 Financial-Data_Election-Result-Analyses
+
 Election Results Analysis
+
 The goal of this project was to identify the candidates, vote totals, vote distribution, and overall winner of an election. Since the baseline data was provided in CSV format, Python was used to clean and process the data, as well as calculate the desired outputs.
 
 Questions
+
 Who were the candidates in the election?
 What was the total number of votes cast?
 How many votes did each candidate obtain?
@@ -19,10 +22,13 @@ Calculate total number of votes cast.
 Calculate percentage of total votes obtained by each candidate.
 Determine winner of the election based on vote percentage obtained.
 Output results to terminal window and a text file.
+
 Results
+
 https://github.com/Bryano841/python-challenge/blob/master/python-challenge/polldata.py
 
 Observations
+
 The candidates were Khan, Correy, Li, and O'Tooley.
 The total number of votes cast was 3,521,001.
 The total vote distribution was 2,218,231 for Khan, 704,200 for Correy, 492,940 for Li, and 105,630 for O'Tooley.
@@ -65,5 +71,7 @@ The net total amount of profits was $38,382,578.
 The average monthly change in profits was $-2315.12.
 February 2012 had the greatest increase in profits at $1,926,159.
 September 2013 had the greatest decrease in profits at $-2,196,167.
+
 Disclaimer
+
 The baseline data used for this analysis was provided by a third party source and its accuracy in relation to actual financial data is unknown.
